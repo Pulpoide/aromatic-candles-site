@@ -1,32 +1,33 @@
-# [POUI](https://poui.netlify.app/)
+# POUI — Aromatherapy & Wellness Brand Concept
 
-## Descripción
-Esta página web fue diseñada como la base de un proyecto para una emprendedora dedicada a la venta de velas aromáticas, difusores y otros productos relacionados con la aromaterapia y el bienestar. El sitio ofrece una experiencia cálida y elegante que refleja la esencia del negocio, con un diseño centrado en destacar la calidad artesanal y los beneficios de los productos.
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=nodedotjs&logoColor=white) ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-Logic-F7DF1E?logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?logo=html5&logoColor=white)
+
+Welcome to the repository for **POUI**, a web platform designed for an aromatherapy entrepreneur specializing in scented candles, diffusers, and wellness products.
+
+This project focuses on creating a warm and elegant **User Experience (UX)** that reflects the brand's identity, highlighting artisanal quality and the sensory benefits of its products through a clean, sophisticated design.
+
+
+
+## Features
+
+* **Custom HTTP Server Architecture:** Manual route management developed from scratch using Node.js's native modules to ensure full control over the request-response cycle.
+* **Dynamic Form Processing:** Advanced reading and processing of parameters sent via forms for seamless user interaction.
+* **Robust Routing System:** Native implementation of specific and default routes for efficient navigation.
+* **Intelligent Error Handling:** Custom responses for non-existent routes (404) and internal server issues (500) to maintain system stability.
+* **Optimized Static Asset Streaming:** High-performance serving of HTML, CSS, images, and other static files without external frameworks.
+
+## Tech Stack
+
+* **Runtime Environment:** Node.js.
+* **Core Native Modules:**
+    * `http`: For server creation and request management.
+    * `url`: For parsing and analyzing complex URL structures.
+    * `fs`: For secure file reading and writing operations.
+    * `path`: For cross-platform file path management.
 
 ---
 
-## Características
-
-- **Servidor HTTP personalizado:** Manejo manual de rutas utilizando el módulo HTTP de Node.js.
-- **Procesamiento de formularios:** Lectura y procesamiento de parámetros enviados desde formularios.
-- **Rutas dinámicas:** Soporte para rutas específicas y predeterminadas.
-- **Manejo de errores:** Respuestas claras para rutas inexistentes (404) y errores internos del servidor (500).
-- **Manejo de archivos estáticos:** Servido de HTML, CSS, imágenes y otros archivos estáticos.
-
----
-
-## Tecnologías Utilizadas
-
-- **Node.js:** Entorno de ejecución JavaScript.
-- **Módulos nativos:**
-  - `http`: Para crear y gestionar el servidor.
-  - `url`: Para manejar y analizar URLs.
-  - `fs`: Para operaciones de lectura y escritura de archivos.
-  - `path`: Para gestionar rutas de archivos de manera segura.
-
----
-
-## Estructura del Proyecto
+## Project Structure
 
 ```bash
 project-root/
@@ -49,7 +50,7 @@ project-root/
 
 ---
 
-## Instalación y Uso
+## Installation and Usage
 
    ```bash
    git clone https://github.com/Pulpoide/aoi1_w2.git
@@ -60,8 +61,11 @@ project-root/
 
 ---
 
-## Autor
+## Author
 
-[**Joaquin D. Olivero**](https://github.com/Pulpoide) -> 
-[LinkedIn](https://www.linkedin.com/in/JoaquinOlivero)
+**Joaquin D. Olivero** Full Stack Developer | Backend Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JoaquinOlivero)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pulpoide)
 
